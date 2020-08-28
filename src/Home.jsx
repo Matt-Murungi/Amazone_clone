@@ -29,7 +29,55 @@ function Home() {
           image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
           />
       </div>
+
+      <div className="home__row">
+        <Product
+          id="1235321"
+          title="The Lean Startup: How Constant Innovation Creates"
+          price={11.96}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
+          />
+        <Product
+          id="1235321"
+          title="The Lean Startup: How Constant Innovation Creates"
+          price={11.96}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
+          />
+             <div className="home__row">
+        <Product
+          id="1235321"
+          title="The Lean Startup: How Constant Innovation Creates"
+          price={11.96}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
+          />
+        <Product
+          id="1235321"
+          title="The Lean Startup: How Constant Innovation Creates"
+          price={11.96}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
+          />
+      </div>
+
+      </div>
+
+      <div className="home__row">
+        <Product
+          id="1235321"
+          title="The Lean Startup: How Constant Innovation Creates"
+          price={11.96}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/31M1lrW+xNL._AC_SY200_.jpg"
+          />
+  
+      </div>
+
+      
           </div>
+          
 
 
   );

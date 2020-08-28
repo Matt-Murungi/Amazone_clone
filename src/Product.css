@@ -1,14 +1,15 @@
 .product{
     display:flex;
     flex-direction: column;
-    max-height: 480px;
-    max-width: 100px;
+    max-height: 33rem;
+    max-width: 22rem;
     margin: 10px;
     background-color: white;
     z-index: 1;
     align-items: center;
     justify-content: flex-end;
-    padding: 10px;
+    align-items: flex-start;
+    padding: 20px;
 }
 
 .product__info{
@@ -34,5 +35,6 @@
     background-color: orange;
     border: 1px solid;
     border-color: orange orangered;
+    align-self:  center;
 }
 
